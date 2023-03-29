@@ -1,0 +1,13 @@
+**/*.zip
+**/*.rar
+
+**/*.exe
+
+### Vagrant ###
+# General
+**/.vagrant/
+
+**/*.log
+
+### Vagrant Patch ###
+**/*.box
